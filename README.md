@@ -97,7 +97,6 @@ Now clone this project with the GIT client inside VSCode or using the terminal/G
 
 ```
 https://github.com/Microcontroller-CMake-Templates/NXP_MKL25Z4_CMake_Template_Project
-
 ```
 
 **Now you are set! Let's open the first project:**
